@@ -1,6 +1,6 @@
 <?php
 
-    echo "Olá mundo$";
-    echo "Só na brincadeira";
-    
+    echo "Olá mundo?";
+    echo "To fazendo mudanças pra testar $$";
+
 ?>
